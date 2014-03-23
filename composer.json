@@ -14,6 +14,8 @@
 		"netherphp/avenue":"dev-master",
 		"netherphp/database":"dev-master",
 		"netherphp/object":"dev-master",
-		"netherphp/option":"dev-master"
+		"netherphp/option":"dev-master",
+		"netherphp/stash":"dev-master",
+		"netherphp/surface":"dev-master"
 	}
 }
