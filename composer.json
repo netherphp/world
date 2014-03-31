@@ -16,6 +16,7 @@
 		"netherphp/ki":"dev-master",
 		"netherphp/object":"dev-master",
 		"netherphp/option":"dev-master",
+		"netherphp/senpai":"dev-master",
 		"netherphp/stash":"dev-master",
 		"netherphp/surface":"dev-master",
 		"netherphp/util":"dev-master"
