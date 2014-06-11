@@ -11,7 +11,7 @@
 	],
 	"require":{
 		"php": ">=5.4.0",
-		"netherphp/avenue":"dev-master",
+		"netherphp/avenue":"@dev",
 		"netherphp/cache":"dev-master",
 		"netherphp/database":"dev-master",
 		"netherphp/ki":"dev-master",
