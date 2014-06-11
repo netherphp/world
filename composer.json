@@ -12,15 +12,15 @@
 	"require":{
 		"php": ">=5.4.0",
 		"netherphp/avenue":"@dev",
-		"netherphp/cache":"dev-master",
-		"netherphp/database":"dev-master",
-		"netherphp/ki":"dev-master",
-		"netherphp/object":"dev-master",
-		"netherphp/option":"dev-master",
-		"netherphp/project":"dev-master",
-		"netherphp/senpai":"dev-master",
-		"netherphp/stash":"dev-master",
-		"netherphp/surface":"dev-master",
-		"netherphp/util":"dev-master"
+		"netherphp/cache":"@dev",
+		"netherphp/database":"@dev",
+		"netherphp/ki":"@dev",
+		"netherphp/object":"@dev",
+		"netherphp/option":"@dev",
+		"netherphp/project":"@dev",
+		"netherphp/senpai":"@dev",
+		"netherphp/stash":"@dev",
+		"netherphp/surface":"@dev",
+		"netherphp/util":"@dev"
 	}
 }
