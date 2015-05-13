@@ -11,10 +11,13 @@
 	],
 	"require":{
 		"php": ">=5.4.0",
+
+		"netherphp/avenue":   "~1.0.0",
 		"netherphp/database": "~1.0.0",
+		"netherphp/input":    "~1.0.0",
 		"netherphp/object":   "~1.0.0",
 		"netherphp/option":   "~1.0.0",
-		"netherphp/avenue":   "~1.0.0",
+		
 		"netherphp/cache":    "@dev",
 		"netherphp/ki":       "@dev",
 		"netherphp/project":  "@dev",
