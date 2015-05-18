@@ -15,15 +15,15 @@
 		"netherphp/avenue":   "~1.0.0",
 		"netherphp/database": "~1.0.0",
 		"netherphp/input":    "~1.0.0",
+		"netherphp/ki":       "~1.0.0",
 		"netherphp/object":   "~1.0.0",
 		"netherphp/option":   "~1.0.0",
-		
+		"netherphp/project":  "~1.0.0",
+		"netherphp/stash":    "~1.0.0",
+		"netherphp/surface":  "~1.0.0",
+
 		"netherphp/cache":    "@dev",
-		"netherphp/ki":       "@dev",
-		"netherphp/project":  "@dev",
 		"netherphp/senpai":   "@dev",
-		"netherphp/stash":    "@dev",
-		"netherphp/surface":  "@dev",
 		"netherphp/util":     "@dev"
 	}
 }
