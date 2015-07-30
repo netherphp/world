@@ -13,6 +13,7 @@
 		"php": ">=5.4.0",
 
 		"netherphp/avenue":    "^1.0.0",
+		"netherphp/cache":     "^1.0.0"
 		"netherphp/console":   "^1.0.0",
 		"netherphp/database":  "^1.0.0",
 		"netherphp/input":     "^1.0.0",
@@ -22,8 +23,6 @@
 		"netherphp/option":    "^1.0.0",
 		"netherphp/project":   "^1.0.0",
 		"netherphp/stash":     "^1.0.0",
-		"netherphp/surface":   "^1.1.0",
-
-		"netherphp/cache":    "@dev"
+		"netherphp/surface":   "^1.1.0"
 	}
 }
