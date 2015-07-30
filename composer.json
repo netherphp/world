@@ -1,29 +1,29 @@
 {
 	"name":"netherphp/world",
 	"description":"A meta package to include all the things.",
-	"keywords":["php","nether"],
+	"keywords":["php","nether","framework","pony"],
 	"license":"BSD-2-Clause",
-	"authors":[
-		{	"name":"Bob Majdak Jr",
-			"email":"bob@nether.io",
-			"homepage":"http://nether.io",
-			"role":"developer" }
-	],
+	"authors":[{
+		"name":"Bob Majdak Jr",
+		"email":"bob@nether.io",
+		"homepage":"http://nether.io",
+		"role":"developer"
+	}],
 	"require":{
 		"php": ">=5.4.0",
 
-		"netherphp/avenue":   "~1.0.0",
-		"netherphp/database": "~1.0.0",
-		"netherphp/input":    "~1.0.0",
-		"netherphp/ki":       "~1.0.0",
-		"netherphp/object":   "~1.0.0",
-		"netherphp/option":   "~1.0.0",
-		"netherphp/project":  "~1.0.0",
-		"netherphp/stash":    "~1.0.0",
-		"netherphp/surface":  "~1.0.0",
+		"netherphp/avenue":    "^1.0.0",
+		"netherphp/console":   "^1.0.0",
+		"netherphp/database":  "^1.0.0",
+		"netherphp/input":     "^1.0.0",
+		"netherphp/ki":        "^1.0.0",
+		"netherphp/object":    "^1.0.0",
+		"netherphp/onescript": "^1.1.0",
+		"netherphp/option":    "^1.0.0",
+		"netherphp/project":   "^1.0.0",
+		"netherphp/stash":     "^1.0.0",
+		"netherphp/surface":   "^1.1.0",
 
-		"netherphp/cache":    "@dev",
-		"netherphp/senpai":   "@dev",
-		"netherphp/util":     "@dev"
+		"netherphp/cache":    "@dev"
 	}
 }
