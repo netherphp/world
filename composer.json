@@ -20,6 +20,8 @@
 		"netherphp/ki":        "^1.0.0",
 		"netherphp/object":    "^2.0.0",
 		"netherphp/onescript": "^1.1.0",
+		"netherphp/object":    "^2.1.0",
+		"netherphp/onescript": "^2.0.0",
 		"netherphp/option":    "^1.0.0",
 		"netherphp/project":   "^1.0.0",
 		"netherphp/stash":     "^1.0.0",
