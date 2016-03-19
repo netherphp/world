@@ -12,11 +12,11 @@
 	"require":{
 		"php": ">=7.0.0",
 
-		"netherphp/avenue":    "^1.0.0",
-		"netherphp/cache":     "^1.1.0",
-		"netherphp/console":   "^1.0.0",
-		"netherphp/database":  "^1.1.0",
-		"netherphp/input":     "^1.0.0",
+		"netherphp/avenue":    "^2.0.0",
+		"netherphp/cache":     "^2.0.0",
+		"netherphp/console":   "^2.0.0",
+		"netherphp/database":  "^2.0.0",
+		"netherphp/input":     "^2.0.0",
 		"netherphp/ki":        "^1.0.0",
 		"netherphp/object":    "^2.0.0",
 		"netherphp/onescript": "^1.1.0",
@@ -25,6 +25,6 @@
 		"netherphp/option":    "^1.0.0",
 		"netherphp/project":   "^1.0.0",
 		"netherphp/stash":     "^1.0.0",
-		"netherphp/surface":   "^1.1.0"
+		"netherphp/surface":   "^2.0.0"
 	}
 }
