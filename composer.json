@@ -24,7 +24,7 @@
 		"netherphp/onescript": "^2.0.0",
 		"netherphp/option":    "^1.0.0",
 		"netherphp/project":   "^1.0.0",
-		"netherphp/stash":     "^1.0.0",
+		"netherphp/stash":     "^2.0.0",
 		"netherphp/surface":   "^2.0.0"
 	}
 }
