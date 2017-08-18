@@ -1,4 +1,4 @@
-# Nether World (Current Version: v2.0.x)
+# Nether World (Current Version: v3.y.z)
 
 A meta package to include all the things. This package will require verisons that do not
 break backwards compat from the previous release of this package. This makes sense in my
@@ -8,7 +8,7 @@ head but let me elaborate just in case.
 
 Do not just copy this line. Note the current version series above.
 
-	require { "netherphp/world": "^1.0.0" }
+	require { "netherphp/world": "^x.y.z" }
 
 This will include the entire Nether stack and allow the individual components of the
 stack to update as is. This does not nessessarily mean that all of the Nether packages
