@@ -10,7 +10,7 @@
 		"role":"developer"
 	}],
 	"require":{
-		"php": ">=7.0.0",
+		"php": ">=7.1.0",
 
 		"netherphp/avenue":    "~3.0",
 		"netherphp/cache":     "~2.0",
